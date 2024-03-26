@@ -21,4 +21,4 @@ To use this repository for temperature forecasting:
 
 Feel free to customize the model architecture and training parameters based on your dataset and forecasting requirements.
 
-![result's chart](https://github.com/HoseinNekouei/forcasting_temperature/blob/main/Figure_8.png)
+![result's chart](https://github.com/HoseinNekouei/Climate_Temperature/blob/main/Figure_8.png)
